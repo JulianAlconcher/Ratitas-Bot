@@ -1,4 +1,4 @@
-# 📱 RatitaBot - El detector de holgazanes en Discord
+# 🐀📱 RatitaBot - El detector de holgazanes en Discord
 
 ¿Tenés amigos que siempre se conectan desde el celu en vez de la PC?  
 ¿Sos parte de un server donde reina la cultura del trabajo duro (con teclado y mouse)?  
@@ -13,9 +13,9 @@ Porque todos sabemos que si estás desde el celu... es para vaguear 😏
 
 Cada vez que alguien se conecta a Discord **desde el celular**, el bot lo detecta y envía un mensaje como este al canal que le indiques:
 
-> `Pepito Mirala a la ratita entrando desde el celu...`
+> `{user_name} Mirala a la ratita entrando desde el celu...`
 
-Este bot es 100% para divertirse y hacer bullying amistoso 🐀📱
+Este bot es 100% para divertirse 🐀📱
 
 ---
 
